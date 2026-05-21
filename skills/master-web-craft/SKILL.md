@@ -1,6 +1,6 @@
 ---
 name: master-web-craft
-description: Complete web design and engineering skill — builds non-generic production UIs, adds purposeful motion, audits and fixes performance and responsiveness, and creates 3D/WebGL experiences. Modes: Build, Motion, Audit, Improve, 3D. Use when creating, reviewing, animating, or optimising any web interface.
+description: "Complete web design and engineering skill. Builds non-generic production UIs, adds purposeful motion, audits and fixes performance and responsiveness, and creates 3D/WebGL experiences. Modes: Build, Motion, Audit, Improve, 3D."
 ---
 
 # Master Web Craft
