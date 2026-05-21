@@ -1,0 +1,13 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Master Web Craft",
+      "description": "Complete web design and engineering skill — Build, Motion, Audit, Improve, and 3D modes in one.",
+      "skills": [
+        "master-web-craft"
+      ]
+    }
+  ]
+}
